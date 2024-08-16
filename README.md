@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- I'm really excited to start programming!
+- I enjoy video editing, gaming, and, of course programming!
+- I may try some projects, like spinning up a website!
 <!--
 **BrickTower/BrickTower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
